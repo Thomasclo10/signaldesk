@@ -139,7 +139,7 @@ export function PublicHeader({ onDemo }: { onDemo: () => void }) {
         <a href="#open-source">Open source</a>
       </nav>
       <div className="public-actions">
-        <a href="https://github.com/Thomasclo10" target="_blank" rel="noreferrer" className="header-github">GitHub <ChevronRight size={15} /></a>
+        <a href="https://github.com/Thomasclo10/signaldesk" target="_blank" rel="noreferrer" className="header-github">GitHub <ChevronRight size={15} /></a>
         <button className="button button-dark button-small" onClick={onDemo}>Open demo <ChevronRight size={14} /></button>
       </div>
     </header>
